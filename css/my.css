@@ -1,7 +1,36 @@
-.rounded-30{
+.container{
+    background-color: #DDD;
+}
 
-}    border-radius: .30px;
+.header{
+    background-color: #ADF;
+}
 
-.rounded-10{
+.footer{
+    background-color: #DAF;
+}
 
-}    border-radius: .10px;
+.carousel {
+    margin-bottom: 4rem;
+    position: relative;
+}
+
+.carousel-indicators {
+    top: 1.5rem;
+    right: 1.5rem;
+    bottom: auto;
+    left: auto;
+    width: 1rem;
+    margin-left: 0;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.carousel-item {
+    height: 32rem;
+    background-color: #777;
+}
