@@ -34,3 +34,12 @@
     height: 32rem;
     background-color: #777;
 }
+.col-lg-4 {
+    text-align: center;
+}
+img {
+    vertical-align: middle;
+}
+.featurette-divider {
+    margin: 5rem 0;
+}
